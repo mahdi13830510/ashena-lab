@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Ashna Lab — design tokens
+   Ashena Lab — design tokens
    Primitive → semantic. Light by default; dark via media query or [data-theme].
    ========================================================================== */
 :root {
@@ -230,7 +230,7 @@ button { cursor: pointer; }
 .hero__inst { margin: 0 0 var(--s-5); font-size: .92rem; font-weight: 600; color: var(--ink); display: flex; flex-wrap: wrap; gap: .25rem .75rem; }
 .hero__inst span { font-weight: 400; color: var(--ink-3); padding-left: .75rem; border-left: 1px solid var(--line); }
 @media (max-width: 599px) { .hero__inst { flex-direction: column; } .hero__inst span { padding-left: 0; border-left: 0; } }
-.hero__title { font-family: var(--font-display); font-weight: 400; font-optical-sizing: auto; font-size: clamp(3.4rem, 8vw, 6.6rem); line-height: .95; letter-spacing: -.035em; margin: 0 0 var(--s-5); white-space: nowrap; }
+.hero__title { font-family: var(--font-display); font-weight: 400; font-optical-sizing: auto; font-size: clamp(3.4rem, 8vw, 6.1rem); line-height: .95; letter-spacing: -.035em; margin: 0 0 var(--s-5); white-space: nowrap; }
 .hero__fa { font-family: "Vazirmatn", "Noto Naskh Arabic", var(--font-sans); font-size: .32em; letter-spacing: 0; color: var(--accent); vertical-align: .9em; margin-left: .2em; font-weight: 500; }
 .hero__cta { display: flex; flex-wrap: wrap; gap: var(--s-3); }
 .hero__honor { display: inline-flex; align-items: center; gap: .55rem; margin-top: var(--s-6); font-size: .88rem; color: var(--ink-2); text-decoration: none; }

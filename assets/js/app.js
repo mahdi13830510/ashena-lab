@@ -1,4 +1,4 @@
-/* Ashna Lab — site logic. No dependencies. Data comes from window.LAB (data.js). */
+/* Ashena Lab — site logic. No dependencies. Data comes from window.LAB (data.js). */
 (() => {
   'use strict';
   const LAB = window.LAB;
@@ -60,7 +60,7 @@
   const toggleTheme = () => {
     const root = document.documentElement;
     root.dataset.theme = isDark() ? 'light' : 'dark';
-    try { localStorage.setItem('ashna-theme', root.dataset.theme); } catch (e) {}
+    try { localStorage.setItem('ashena-theme', root.dataset.theme); } catch (e) {}
     syncThemeLabel();
   };
   $('#themeToggle').addEventListener('click', toggleTheme);
@@ -407,7 +407,7 @@
     const statusTxt = p.status === 'pi' ? p.title : p.status === 'current' ? `${p.degree ? p.degree + ' student' : 'Current student'}` : `${p.degree ? p.degree + ' · ' : ''}Alumni`;
     const cites = pubs.reduce((s, x) => s + (+x.citations || 0), 0);
     $('#sheetBody').innerHTML = `
-      <div class="sheet__hero">${avatar(p, true)}<div><h2 id="sheetTitle">${esc(p.name)}</h2><p>${esc(statusTxt)} · Ashna Lab</p></div></div>
+      <div class="sheet__hero">${avatar(p, true)}<div><h2 id="sheetTitle">${esc(p.name)}</h2><p>${esc(statusTxt)} · Ashena Lab</p></div></div>
       <div class="chips" style="margin:0">${(p.areas || []).map((a) => `<span class="chip" aria-pressed="true" style="--c:var(--a-${a});--cs:var(--a-${a}-soft);cursor:default"><i></i>${esc(AREA[a]?.short || a)}</span>`).join('')}</div>
       ${p.areaText ? `<p class="sheet__bio" style="margin-top:1rem"><strong>Research focus:</strong> ${esc(p.areaText)}</p>` : ''}
       ${p.position ? `<p class="sheet__bio" style="margin-top:.5rem"><strong>Now:</strong> ${esc(p.position)}</p>` : ''}

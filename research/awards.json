@@ -1,0 +1,22 @@
+{
+  "tanha": [
+    {
+      "year": "2026",
+      "title": "World's Top 2% Scientists (Stanford University / Elsevier), single-year impact for 2025",
+      "detail": "Listed as 'Tanha, Jafar' (University of Tabriz, Iran) in Table_1_Authors_singleyr_2025 of the Elsevier data release, version 9: 'August 2026 data-update for Updated science-wide author databases of standardized citation indicators' (Scopus snapshot of 1 Aug 2026, published 7 Oct 2026). Subfield: Artificial Intelligence & Image Processing (field: Information & Communication Technologies). He ranks 10,256 of 517,648 in that subfield, which is about the top 1.98%, so he qualifies through the subfield top-2% criterion. Global c-score rank: 234,441. In 2025 he had 387 citations and an h-index of 10. He is NOT in any career-long table (2021-2025 data), and NOT in the single-year tables for 2021, 2022, 2023 or 2024 (versions 5-8, checked by name).",
+      "source": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9"
+    }
+  ],
+  "members": {},
+  "photos": {
+    "tanha": {"file": "photos/tanha.jpg", "source": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=OlYEZEMAAAAJ (Google Scholar profile OlYEZEMAAAAJ, 256x200)"},
+    "hassanzadeh": {"file": "photos/hassanzadeh.jpg", "source": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=CJHOdWoAAAAJ (Google Scholar profile; linked from her ORCID 0000-0001-6521-0840)"},
+    "baghaei": {"file": "photos/baghaei.jpg", "source": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=dweidf0AAAAJ (Google Scholar profile; linked from his ORCID 0009-0005-7255-3952)"},
+    "jalili": {"file": "photos/jalili.jpg", "source": "https://github.com/Hamed-Jalili.png"},
+    "behzad": {"file": "photos/behzad.jpg", "source": "https://github.com/ZahraBehzad.png (full-body photo, tilted angle, face small; crop if used)"},
+    "zarrin": {"file": "photos/zarrin.jpg", "source": "https://github.com/MahdiDasZarrin.png (GitHub profile name 'Mahdi Zarrin'; the username matches his ORCID name 'Mahdi Das Zarrin', 0009-0002-4538-6923)"},
+    "fakhim": {"file": "photos/fakhim.jpg", "source": "https://github.com/AlirezaFBabaei.png (GitHub name 'Alireza Fakhim Babaei', PhD student, INESC TEC, Portugal)"},
+    "iraji": {"file": "photos/iraji.jpg", "source": "https://github.com/ms-iraji.png (GitHub name 'Dr.Mohammad Saber.Iraji', Payame Noor University)"}
+  },
+  "notes": "Top 2%: I checked this against the primary Elsevier/Stanford dataset. I downloaded the Table_1 career and single-year files for versions 5-9 (citation years 2021-2025) and searched them by name. The only listing is single-year 2025, in the release of Aug/Oct 2026. There is no career-long listing in any edition. The 'Updated science-wide author databases' release of Sept 2025 (2024 data) does NOT include him. Two University of Tabriz pages that list its top-2% researchers do not name him: the 2020 news item (https://tabrizu.ac.ir/fa/news/12929/) and the ECE faculty page from Dec 2025 (https://ece.tabrizu.ac.ir/fa/news/26212/ , https://ece.tabrizu.ac.ir/fa/page/12892/). Both pages are older than the 2026 release. No university news about the 2026 release mentions him yet. Other awards: English and Persian searches found no verifiable best paper awards, distinguished-researcher awards, national awards, ESI highly cited status, editorial board roles or conference committee roles for Tanha. His faculty page (faculty.tabrizu.ac.ir/tanha) and the asatid.tabrizu.ac.ir site timed out from here, and LinkedIn blocked access, so an honors section there may list more. Lab members: no clearly attributable awards were found for any member, and none appear in the top-2% tables (2024-2025 checked). Photos not found or rejected: samadi (Scholar 0Bnq8xAAAAAJ has a placeholder silhouette, GitHub neginsmd is an identicon); rasi (GitHub nimarasi avatar is a faceless hooded figure, deleted); no profiles with photos found for rmohammadi, kazempour, tarhib, imanzadeh, shahi, dolati, roshan, nikkhah, afraz, ghanbari, ghazal. A Google Scholar author search was blocked, so Scholar IDs for other members could not be found. Discrepancy: Tanha's rank is given as Full Professor on Google Scholar but Associate Professor (دانشیار) in the ECE faculty directory."
+}

@@ -1,0 +1,729 @@
+[
+  {
+    "name": "SeyedEhsan Roshan",
+    "aliases": [
+      "Seyed Ehsan Roshan",
+      "Ehsan Roshan",
+      "S. Roshan"
+    ],
+    "research_area": "Semi-supervised learning, Medical image analysis",
+    "degree": null,
+    "bio": "Researcher at the University of Tabriz and a frequent co-author with Jafar Tanha on medical image segmentation, imbalanced learning and semi-supervised learning. 2026 publications also list affiliations with the University of Turku / Turku PET Centre (Finland), in collaboration with Riku Klén's group. Earlier work (2019-2021) on evolutionary ensemble methods was with Shahrokh Asadi (University of Tehran).",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0001-0157-7237",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2267735033",
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": 340,
+      "hindex": 7,
+      "source": "Semantic Scholar (author 2267735033); OpenAlex A5077532770 shows 241 citations, h-index 5"
+    },
+    "publications": [
+      {
+        "title": "A deep ensemble medical image segmentation with novel sampling method and loss function",
+        "authors": "SeyedEhsan Roshan, Jafar Tanha, Mahdi Zarrin, Alireza Fakhim Babaei, Haniyeh Nikkhah, Zahra Jafari",
+        "year": 2024,
+        "venue": "Computers in Biology and Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2024.108305",
+        "doi": "10.1016/j.compbiomed.2024.108305",
+        "citations": 34
+      },
+      {
+        "title": "A novel consistency-guided and pseudo labeled training for weakly-semi-supervised medical image segmentation",
+        "authors": "Mahdi Zarrin, Jafar Tanha, Amin Kazempour, Haniyeh Nikkhah, SeyedEhsan Roshan",
+        "year": 2026,
+        "venue": "Computers in Biology and Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2026.111631",
+        "doi": "10.1016/j.compbiomed.2026.111631",
+        "citations": 1
+      },
+      {
+        "title": "YM-WML: A new Yolo-based segmentation Model with Weighted Multi-class Loss for medical imaging",
+        "authors": "Haniyeh Nikkhah, Jafar Tanha, Mahdi Zarrin, SeyedEhsan Roshan, Amin Kazempour",
+        "year": 2025,
+        "venue": "arXiv preprint (arXiv:2506.22955)",
+        "url": "https://arxiv.org/abs/2506.22955",
+        "doi": "10.48550/arXiv.2506.22955",
+        "citations": 1
+      },
+      {
+        "title": "MC-BioCLIPSR: A Mamba-CNN Hybrid Network with BioMedCLIP-Guided Loss for High-Resolution Brain MRI Reconstruction",
+        "authors": "Amin Kazempour, Jafar Tanha, SeyedEhsan Roshan, Mahdi Zarrin, Haniyeh Nikkhah",
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering (ICCKE 2025)",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273813",
+        "doi": "10.1109/ICCKE68588.2025.11273813",
+        "citations": 1
+      },
+      {
+        "title": "Uncertainty-weighted semi-supervised learning with dynamic entropy masking and Bhattacharyya-regularized loss",
+        "authors": "Mohammed Talal Ghazal, Jafar Tanha, Nasrin Shahi, SeyedEhsan Roshan",
+        "year": 2025,
+        "venue": "Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-025-30069-3",
+        "doi": "10.1038/s41598-025-30069-3",
+        "citations": 1
+      },
+      {
+        "title": "IMBoost: A New Weighting Factor for Boosting to Improve the Classification Performance of Imbalanced Data",
+        "authors": "SeyedEhsan Roshan, Jafar Tanha, Farzad Hallaji Azad, Mohammadreza Ghanbari",
+        "year": 2023,
+        "venue": "Complexity",
+        "url": "https://doi.org/10.1155/2023/2176891",
+        "doi": "10.1155/2023/2176891",
+        "citations": 5
+      },
+      {
+        "title": "A Novel Multimodal Deep Learning Approach With Loss Function for Detection of Sleep Apnea Events",
+        "authors": "Alireza Fakhim Babaei, Jafar Tanha, Mohammad Ali Balafar, SeyedEhsan Roshan",
+        "year": 2025,
+        "venue": "IEEE Access",
+        "url": "https://doi.org/10.1109/ACCESS.2025.3552254",
+        "doi": "10.1109/ACCESS.2025.3552254",
+        "citations": 12
+      },
+      {
+        "title": "SUBoost: A Novel Boosting-Based Selective Undersampling for Handling Imbalanced Data",
+        "authors": "Nima Rasi Baghmishe, Jafar Tanha, Ehsan Roshan",
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering (ICCKE 2025)",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273834",
+        "doi": "10.1109/ICCKE68588.2025.11273834",
+        "citations": 0
+      },
+      {
+        "title": "An experimental study of sentiment classification using deep-based models with various word embedding techniques",
+        "authors": "Sajad Rezaei, Jafar Tanha, SeyedEhsan Roshan, Zahra Jafari, Mahdi Molaei, Samira Mirzadoust, Mohammad Sadeghi, Amir Forsati, Tara Khoshamouz",
+        "year": 2024,
+        "venue": "Journal of Experimental & Theoretical Artificial Intelligence",
+        "url": "https://doi.org/10.1080/0952813X.2024.2384568",
+        "doi": "10.1080/0952813X.2024.2384568",
+        "citations": 9
+      },
+      {
+        "title": "Cardiology Disease Diagnosis by Analyzing Histological Microscopic Images Using Deep Learning",
+        "authors": "Maria Salehpanah, Jafar Tanha, Zahra Jafari, SeyedEhsan Roshan, Sajad Rezaei",
+        "year": 2023,
+        "venue": "ICCKE 2023",
+        "url": "https://doi.org/10.1109/ICCKE60553.2023.10326275",
+        "doi": "10.1109/ICCKE60553.2023.10326275",
+        "citations": 4
+      },
+      {
+        "title": "A Deep CNN Model Based Ensemble Approach for Semantic and Instance Segmentation of Indoor Environments",
+        "authors": "Sajad Rezaei, Jafar Tanha, Zahra Jafari, SeyedEhsan Roshan, Mohammad-Amin Memar Kochebagh",
+        "year": 2023,
+        "venue": "ICCKE 2023",
+        "url": "https://doi.org/10.1109/ICCKE60553.2023.10326249",
+        "doi": "10.1109/ICCKE60553.2023.10326249",
+        "citations": 1
+      },
+      {
+        "title": "A Dual-Attention Hybrid Model for Head and Neck Lesion Segmentation from PET Images",
+        "authors": "SeyedEhsan Roshan, Maria K. Jaakkola, Oona Rainio, Seyed MohammadReza Hosseini, Muhammad Irfan, Anting Li, Joonas Liedes, Jukka Kemppainen, Jafar Tanha, Jarmo Teuho, Riku Klén",
+        "year": 2026,
+        "venue": "SSRN preprint",
+        "url": "https://doi.org/10.2139/ssrn.7291676",
+        "doi": "10.2139/ssrn.7291676",
+        "citations": 0
+      },
+      {
+        "title": "Deep Learning for Medical Ultrasound Image Segmentation: A Systematic Review of the Current Research",
+        "authors": "Oona Rainio, Ehsan Roshan, Seyed MohammadReza Hosseini, Rida Rehman, Joanna Okenwa, Riku Klén",
+        "year": 2026,
+        "venue": "Journal of Imaging Informatics in Medicine",
+        "url": "https://doi.org/10.1007/s10278-026-01931-1",
+        "doi": "10.1007/s10278-026-01931-1",
+        "citations": 2
+      },
+      {
+        "title": "Random forest swarm optimization-based for heart diseases diagnosis",
+        "authors": "Shahrokh Asadi, SeyedEhsan Roshan, Michael W. Kattan",
+        "year": 2021,
+        "venue": "Journal of Biomedical Informatics",
+        "url": "https://doi.org/10.1016/j.jbi.2021.103690",
+        "doi": "10.1016/j.jbi.2021.103690",
+        "citations": 173
+      },
+      {
+        "title": "Improvement of Bagging performance for classification of imbalanced datasets using evolutionary multi-objective optimization",
+        "authors": "Seyed Ehsan Roshan, Shahrokh Asadi",
+        "year": 2020,
+        "venue": "Engineering Applications of Artificial Intelligence",
+        "url": "https://doi.org/10.1016/j.engappai.2019.103319",
+        "doi": "10.1016/j.engappai.2019.103319",
+        "citations": 109
+      },
+      {
+        "title": "A bi-objective optimization method to produce a near-optimal number of classifiers and increase diversity in Bagging",
+        "authors": "Shahrokh Asadi, Seyed Ehsan Roshan",
+        "year": 2021,
+        "venue": "Knowledge-Based Systems",
+        "url": "https://doi.org/10.1016/j.knosys.2020.106656",
+        "doi": "10.1016/j.knosys.2020.106656",
+        "citations": 28
+      },
+      {
+        "title": "Development of ensemble learning classification with density peak decomposition-based evolutionary multi-objective optimization",
+        "authors": "SeyedEhsan Roshan, Shahrokh Asadi",
+        "year": 2021,
+        "venue": "International Journal of Machine Learning and Cybernetics",
+        "url": "https://doi.org/10.1007/s13042-020-01271-8",
+        "doi": "10.1007/s13042-020-01271-8",
+        "citations": 8
+      }
+    ],
+    "achievements": [],
+    "confidence": "high",
+    "notes": "Tabriz-era papers verified via OpenAlex/S2 co-authorship with Tanha. Pre-2022 papers with S. Asadi are merged into the same S2/DBLP profile ('Seyed Ehsan Roshan') and OpenAlex profile; likely the same person but not independently confirmed. GitHub user 'ehsanro' (name Ehsan Roshan, one repo 'SGAN') not attributed - unverified."
+  },
+  {
+    "name": "Mahdi Baghaei Oskouei",
+    "aliases": [],
+    "research_area": "Domain adaptation",
+    "degree": null,
+    "bio": "Researcher at the Department of Computer Engineering, University of Tabriz, interested in deep learning and computer vision (per his Google Scholar profile). Co-author of A2RCMatch with Jafar Tanha and of work on domain-adaptive human activity recognition and robust XAI.",
+    "links": {
+      "scholar": "https://scholar.google.com/citations?user=dweidf0AAAAJ",
+      "orcid": "https://orcid.org/0009-0005-7255-3952",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2442721865",
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": 6,
+      "hindex": 1,
+      "source": "Google Scholar"
+    },
+    "publications": [
+      {
+        "title": "A2RCMatch: dual-attention framework for reliable sample selection and consistency regularization in semi-supervised learning",
+        "authors": "Razieh Mohammadi, Jafar Tanha, Mohammad Ali Balafar, Mahdi Baghaei Oskouei, Hamed Jalili, Nima Rasi Baghmishe, Pouya Afraz",
+        "year": 2026,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2026.123735",
+        "doi": "10.1016/j.ins.2026.123735",
+        "citations": 0
+      },
+      {
+        "title": "Multi-modal semi-supervised approach to domain adaptive human activity recognition",
+        "authors": "Deniz NoorMohammadzadehMaleki, Mahdi Baghaei Oskouei, Amirfarhad Farhadi, Azadeh Zamanifar",
+        "year": 2026,
+        "venue": "Discover Computing",
+        "url": "https://doi.org/10.1007/s10791-026-10279-7",
+        "doi": "10.1007/s10791-026-10279-7",
+        "citations": 1
+      },
+      {
+        "title": "A structurally sparse and robust XAI framework",
+        "authors": "Deniz NoorMohammadzadehMaleki, Mahdi Baghaei Oskouei, Alireza Taheri, Amirfarhad Farhadi, Azadeh Zamanifar",
+        "year": 2026,
+        "venue": "AI and Ethics",
+        "url": "https://doi.org/10.1007/s43681-026-01322-w",
+        "doi": "10.1007/s43681-026-01322-w",
+        "citations": 0
+      },
+      {
+        "title": "A Case Study About Application of Machine Learning in Health Domain",
+        "authors": "Mahdi Baghaei Oskouei, B. T. Savadkoohi",
+        "year": 2024,
+        "venue": null,
+        "url": "https://scholar.google.com/citations?user=dweidf0AAAAJ",
+        "doi": null,
+        "citations": 5
+      }
+    ],
+    "achievements": [],
+    "confidence": "high",
+    "notes": "ORCID lists University of Tabriz employment and links the Scholar profile. GitHub 'mahdibaghaei' (bio: 'Bridging AI research and real-world applications') is plausible but unverified, not attributed."
+  },
+  {
+    "name": "Hanieh Nikkhah",
+    "aliases": [
+      "Haniyeh Nikkhah"
+    ],
+    "research_area": "Semi-supervised learning, Medical image analysis",
+    "degree": null,
+    "bio": "Publishes as Haniyeh Nikkhah, with a University of Tabriz affiliation. Co-author with Jafar Tanha, SeyedEhsan Roshan and Mahdi Zarrin on YOLO-based and semi-supervised medical image segmentation, brain MRI reconstruction and pediatric wrist fracture detection.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0000-0003-0153-2044",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/1658975121",
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null,
+      "source": "Not reported: S2 and OpenAlex profiles merge in biomedical papers from Yazd (Shahid Sadoughi Univ. of Medical Sciences) that may belong to a different person"
+    },
+    "publications": [
+      {
+        "title": "YM-WML: A new Yolo-based segmentation Model with Weighted Multi-class Loss for medical imaging",
+        "authors": "Haniyeh Nikkhah, Jafar Tanha, Mahdi Zarrin, SeyedEhsan Roshan, Amin Kazempour",
+        "year": 2025,
+        "venue": "arXiv preprint (arXiv:2506.22955)",
+        "url": "https://arxiv.org/abs/2506.22955",
+        "doi": "10.48550/arXiv.2506.22955",
+        "citations": 1
+      },
+      {
+        "title": "A novel consistency-guided and pseudo labeled training for weakly-semi-supervised medical image segmentation",
+        "authors": "Mahdi Zarrin, Jafar Tanha, Amin Kazempour, Haniyeh Nikkhah, SeyedEhsan Roshan",
+        "year": 2026,
+        "venue": "Computers in Biology and Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2026.111631",
+        "doi": "10.1016/j.compbiomed.2026.111631",
+        "citations": 1
+      },
+      {
+        "title": "A deep ensemble medical image segmentation with novel sampling method and loss function",
+        "authors": "SeyedEhsan Roshan, Jafar Tanha, Mahdi Zarrin, Alireza Fakhim Babaei, Haniyeh Nikkhah, Zahra Jafari",
+        "year": 2024,
+        "venue": "Computers in Biology and Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2024.108305",
+        "doi": "10.1016/j.compbiomed.2024.108305",
+        "citations": 34
+      },
+      {
+        "title": "MC-BioCLIPSR: A Mamba-CNN Hybrid Network with BioMedCLIP-Guided Loss for High-Resolution Brain MRI Reconstruction",
+        "authors": "Amin Kazempour, Jafar Tanha, SeyedEhsan Roshan, Mahdi Zarrin, Haniyeh Nikkhah",
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering (ICCKE 2025)",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273813",
+        "doi": "10.1109/ICCKE68588.2025.11273813",
+        "citations": 1
+      },
+      {
+        "title": "A Novel Hybrid CNN-Mamba Framework with DySample-Enhanced YOLOv11 for Automated Pediatric Wrist Fracture Detection",
+        "authors": "Jafar Tanha, Mahdi Zarrin, Haniyeh Nikkhah",
+        "year": 2025,
+        "venue": "Journal of Artificial Intelligence, Applications, and Innovations",
+        "url": "https://doi.org/10.61838/jaiai.2.1.2",
+        "doi": "10.61838/jaiai.2.1.2",
+        "citations": 0
+      }
+    ],
+    "achievements": [],
+    "confidence": "high for listed AI papers; medium for ORCID/S2 profile",
+    "notes": "ORCID 0000-0003-0153-2044 is attached (via OpenAlex) to the 2026 CBM paper with a Tabriz affiliation, but the ORCID record is empty and the same profile carries Yazd genetics/diabetes papers. Possibly the same person with a biomedical background, but this is not verified."
+  },
+  {
+    "name": "Somayeh Jafari",
+    "aliases": [],
+    "research_area": "Semi-supervised learning",
+    "degree": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "none found",
+    "notes": "No paper co-authored with Tanha or with a Tabriz AI affiliation was found. Many unrelated 'Somayeh Jafari' profiles exist (Qom, Payame Noor, Umeå, etc.). The 'Zahra Jafari' on Tanha papers is a different person."
+  },
+  {
+    "name": "Hamed Jalili Majdi",
+    "aliases": [
+      "Hamed Jalili"
+    ],
+    "research_area": "Medical image analysis, Image segmentation",
+    "degree": "MSc (ME in AI per GitHub bio)",
+    "bio": "AI researcher at the Faculty of Computer Engineering, University of Tabriz (ORCID). His GitHub bio lists an ME in AI, a BE in Software Engineering and an AS in Chemistry at the University of Tabriz, plus backend development experience (Java Spring Boot, Node.js).",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0008-0508-940X",
+      "researchgate": null,
+      "linkedin": null,
+      "github": "https://github.com/Hamed-Jalili",
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [
+      {
+        "title": "A2RCMatch: dual-attention framework for reliable sample selection and consistency regularization in semi-supervised learning",
+        "authors": "Razieh Mohammadi, Jafar Tanha, Mohammad Ali Balafar, Mahdi Baghaei Oskouei, Hamed Jalili, Nima Rasi Baghmishe, Pouya Afraz",
+        "year": 2026,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2026.123735",
+        "doi": "10.1016/j.ins.2026.123735",
+        "citations": 0
+      },
+      {
+        "title": "Predicting radiation-acute esophagitis via machine learning algorithms",
+        "authors": "Mostafa Alizade-Harakiyan, Amin Khodaei, Hamed Zamani, Hamed Jalili, Asghar Mesbahi",
+        "year": 2025,
+        "venue": "Computational Biology and Chemistry",
+        "url": "https://doi.org/10.1016/j.compbiolchem.2025.108592",
+        "doi": "10.1016/j.compbiolchem.2025.108592",
+        "citations": 2
+      }
+    ],
+    "achievements": [],
+    "confidence": "high",
+    "notes": "The 2023 Vitis vinifera ABCB gene paper in his S2/OpenAlex profile (with Turkish co-authors) is likely a different Hamed Jalili and is excluded. The S2 profile is mixed, so it is not linked. Do not confuse him with Mahdi Jalili (RMIT), another Tanha co-author."
+  },
+  {
+    "name": "Pouya Afraz",
+    "aliases": [],
+    "research_area": "Medical image segmentation",
+    "degree": null,
+    "bio": "Researcher at the Faculty of Electrical and Computer Engineering, University of Tabriz (ORCID). Co-author of A2RCMatch (Information Sciences, 2026) with Jafar Tanha.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0000-9946-5059",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2442722699",
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": 0,
+      "hindex": 0,
+      "source": "Semantic Scholar"
+    },
+    "publications": [
+      {
+        "title": "A2RCMatch: dual-attention framework for reliable sample selection and consistency regularization in semi-supervised learning",
+        "authors": "Razieh Mohammadi, Jafar Tanha, Mohammad Ali Balafar, Mahdi Baghaei Oskouei, Hamed Jalili, Nima Rasi Baghmishe, Pouya Afraz",
+        "year": 2026,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2026.123735",
+        "doi": "10.1016/j.ins.2026.123735",
+        "citations": 0
+      }
+    ],
+    "achievements": [],
+    "confidence": "high"
+  },
+  {
+    "name": "Mohammadreza Ghanbari",
+    "aliases": [
+      "Mohammad Reza Ghanbari Matin",
+      "Mohammadreza Ganbari Matin"
+    ],
+    "research_area": "Object detection",
+    "degree": null,
+    "bio": "University of Tabriz co-author with Jafar Tanha (IMBoost, Complexity 2023). His ORCID gives his full name as Mohammad Reza Ghanbari Matin.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0000-4439-4003",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [
+      {
+        "title": "IMBoost: A New Weighting Factor for Boosting to Improve the Classification Performance of Imbalanced Data",
+        "authors": "SeyedEhsan Roshan, Jafar Tanha, Farzad Hallaji Azad, Mohammadreza Ghanbari",
+        "year": 2023,
+        "venue": "Complexity",
+        "url": "https://doi.org/10.1155/2023/2176891",
+        "doi": "10.1155/2023/2176891",
+        "citations": 5
+      },
+      {
+        "title": "A Hybrid Deep Learning Model for 5-Digit Handwritten Recognition",
+        "authors": "Alireza Fakhim Babaei, Jafar Tanha, Amir Fakhim Babaei, Mohammadreza Ganbari Matin",
+        "year": 2024,
+        "venue": "IEEE QICAR 2024 conference",
+        "url": "https://doi.org/10.1109/QICAR61538.2024.10496604",
+        "doi": "10.1109/QICAR61538.2024.10496604",
+        "citations": 7
+      }
+    ],
+    "achievements": [],
+    "confidence": "high for IMBoost; medium for the handwriting paper (name variant 'Ganbari Matin')",
+    "notes": "The S2 profile 2338408111 merges in graph-learning papers by a Mohammadreza Ghanbari at the University of Melbourne (with Majid Sarvi). That is likely a different person, so the S2 profile and metrics are excluded. GitHub 'mamadmamadu11-dotcom' (MohammadReza Ghanbari) is not attributed."
+  },
+  {
+    "name": "Fardis Sattari",
+    "aliases": [],
+    "research_area": "Time-series",
+    "degree": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "none found",
+    "notes": "No academic profile or publication found in OpenAlex, Semantic Scholar, arXiv, GitHub or the web."
+  },
+  {
+    "name": "Zahra Behzad",
+    "aliases": [],
+    "research_area": "Time-series",
+    "degree": "MSc (student)",
+    "bio": "Master's student in AI at the University of Tabriz and research assistant at Ashena Lab, interested in domain adaptation, semi-supervised learning and time series (GitHub bio).",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": "https://github.com/ZahraBehzad",
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "high (GitHub self-description names Ashena Lab)",
+    "notes": "The OpenAlex Zahra Behzad (University of Tehran, building energy, ORCID 0009-0001-0806-4645) is a different person."
+  },
+  {
+    "name": "Aidin Mehdipour",
+    "aliases": [],
+    "research_area": "Semi-supervised learning",
+    "degree": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "none found",
+    "notes": "The only OpenAlex 'Aidin Mehdipour' is an antenna/metasurface researcher, almost certainly a different person. Not attributed."
+  },
+  {
+    "name": "Borhan Maghsoudi",
+    "aliases": [],
+    "research_area": "Semi-supervised learning",
+    "degree": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "none found"
+  },
+  {
+    "name": "Sanaz Mirzaei",
+    "aliases": [],
+    "research_area": "Semi-supervised learning",
+    "degree": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "publications": [],
+    "achievements": [],
+    "confidence": "none found",
+    "notes": "OpenAlex profiles with this name (pharmacy, political science) are unrelated."
+  },
+  {
+    "name": "Mohammed Talal Ghazal",
+    "aliases": [
+      "M. Ghazal",
+      "Mohammed Ghazal"
+    ],
+    "research_area": "Medical image analysis",
+    "degree": null,
+    "bio": "Iraqi researcher who has been affiliated with Northern Technical University (Iraq) since 2006 (ORCID). He lists a University of Tabriz affiliation on his 2025 Scientific Reports paper with Jafar Tanha. He has published widely on computer vision (face recognition, weapon detection, pose estimation), robotics and power-system fault detection, and more recently on learning with noisy labels and multimodal medical diagnosis.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0000-0003-3159-4983",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2182188355",
+      "homepage": null,
+      "dblp": null
+    },
+    "metrics": {
+      "citations": 150,
+      "hindex": 8,
+      "source": "OpenAlex A5023662249 (S2: 117 citations, h-index 7)"
+    },
+    "publications": [
+      {
+        "title": "Uncertainty-weighted semi-supervised learning with dynamic entropy masking and Bhattacharyya-regularized loss",
+        "authors": "Mohammed Talal Ghazal, Jafar Tanha, Nasrin Shahi, SeyedEhsan Roshan",
+        "year": 2025,
+        "venue": "Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-025-30069-3",
+        "doi": "10.1038/s41598-025-30069-3",
+        "citations": 1
+      },
+      {
+        "title": "Noise-aware prototype-assisted contrastive learning for learning with noisy labels",
+        "authors": "Mohammed Talal Ghazal",
+        "year": 2026,
+        "venue": "Expert Systems with Applications",
+        "url": "https://doi.org/10.1016/j.eswa.2026.133007",
+        "doi": "10.1016/j.eswa.2026.133007",
+        "citations": 0
+      },
+      {
+        "title": "Multimodal fusion framework for enhanced diagnosis of heart failure using ECG, chest X-rays, blood biomarkers, and clinical text data",
+        "authors": "Mohammed Talal Ghazal",
+        "year": 2026,
+        "venue": "Iran Journal of Computer Science",
+        "url": "https://doi.org/10.1007/s42044-026-00406-4",
+        "doi": "10.1007/s42044-026-00406-4",
+        "citations": 1
+      },
+      {
+        "title": "Human Pose Estimation for Medical Applications: A Vision-Based Review",
+        "authors": "Ali Raed Saadoon, Mohammed Talal Ghazal, Musab A. M. Ali",
+        "year": 2026,
+        "venue": "NTU Journal of Engineering and Technology",
+        "url": "https://doi.org/10.56286/46rh2207",
+        "doi": "10.56286/46rh2207",
+        "citations": 0
+      },
+      {
+        "title": "Classification of breast cancer using a precise deep learning model architecture",
+        "authors": "Mohammed Talal Ghazal, Murtadha Al-Ghadhanfari, Fajer F. Fadhil",
+        "year": 2025,
+        "venue": "International Journal of Informatics and Communication Technology (IJ-ICT)",
+        "url": "https://doi.org/10.11591/ijict.v14i3.pp933-940",
+        "doi": "10.11591/ijict.v14i3.pp933-940",
+        "citations": 0
+      },
+      {
+        "title": "Simulation of autonomous navigation of turtlebot robot system based on robot operating system",
+        "authors": "Mohammed Talal Ghazal, Murtadha Al-Ghadhanfari, Najwan Zuhair Waisi",
+        "year": 2024,
+        "venue": "Bulletin of Electrical Engineering and Informatics",
+        "url": "https://doi.org/10.11591/eei.v13i2.6419",
+        "doi": "10.11591/eei.v13i2.6419",
+        "citations": 8
+      },
+      {
+        "title": "Discover human poses similarity and action recognition based on machine learning",
+        "authors": "Mohammed Moath Abdulghani, Mohammed Talal Ghazal, Anmar B. Salih",
+        "year": 2023,
+        "venue": "Bulletin of Electrical Engineering and Informatics",
+        "url": "https://doi.org/10.11591/eei.v12i3.4930",
+        "doi": "10.11591/eei.v12i3.4930",
+        "citations": 12
+      },
+      {
+        "title": "Face recognition based on curvelets, invariant moments features and SVM",
+        "authors": "Mohammed Talal Ghazal, Karam Abdullah",
+        "year": 2020,
+        "venue": "TELKOMNIKA",
+        "url": "https://doi.org/10.12928/telkomnika.v18i2.14106",
+        "doi": "10.12928/telkomnika.v18i2.14106",
+        "citations": 27
+      },
+      {
+        "title": "The detection of handguns from live-video in real-time based on deep learning",
+        "authors": "Mohammed Talal Ghazal, Najwan Zuhair Waisi, Nawal Younis Abdullah",
+        "year": 2020,
+        "venue": "TELKOMNIKA",
+        "url": "https://doi.org/10.12928/telkomnika.v18i6.16174",
+        "doi": "10.12928/telkomnika.v18i6.16174",
+        "citations": 20
+      },
+      {
+        "title": "Design and Implementation of Overcurrent Protection Relay",
+        "authors": "Mohammed Y. Suliman, Mohammed Talal Ghazal",
+        "year": 2020,
+        "venue": "Journal of Electrical Engineering and Technology",
+        "url": "https://doi.org/10.1007/s42835-020-00447-0",
+        "doi": "10.1007/s42835-020-00447-0",
+        "citations": 20
+      },
+      {
+        "title": "A Novel Target Tracking Algorithm for Simultaneous Measurements of Radar and Infrared Sensors",
+        "authors": "Mohammed Talal Ghazal, Ali Doustmohammadi",
+        "year": 2016,
+        "venue": "Advances in Electrical and Computer Engineering",
+        "url": "https://doi.org/10.4316/aece.2016.03009",
+        "doi": "10.4316/aece.2016.03009",
+        "citations": 9
+      }
+    ],
+    "achievements": [],
+    "confidence": "high (ORCID-linked; Tabriz affiliation on the Tanha paper)",
+    "notes": "The 2025 Radiotherapy & Oncology abstract in his S2 profile (Valencia applicator) is likely a different M. Ghazal and is excluded. His degree level in the lab is not confirmed (likely PhD, given his career stage, but unverified)."
+  }
+]

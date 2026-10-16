@@ -1,4 +1,4 @@
-# Ashna Lab website
+# Ashena Lab website
 
 Static site for Dr. Jafar Tanha's AI lab at the University of Tabriz. There is no build step and no dependencies, so it can be hosted anywhere (GitHub Pages, Netlify, a university server).
 

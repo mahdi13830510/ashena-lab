@@ -1,0 +1,217 @@
+{
+  "pi": {
+    "name": "Prof. Jafar Tanha",
+    "title": "Professor of Computer Engineering",
+    "affiliation": "Faculty of Electrical & Computer Engineering, University of Tabriz",
+    "email": null,
+    "bio": [
+      "Jafar Tanha is a professor of computer engineering at the Faculty of Electrical and Computer Engineering, University of Tabriz, where he leads Ashna Lab. He earned his PhD in Computer Science from the University of Amsterdam in 2013 with the thesis “Ensemble approaches to semi-supervised learning”. In it he developed semi-supervised self-training and multiclass semi-supervised boosting methods that are still widely cited.",
+      "After his PhD he worked on language-model adaptation for handwritten text recognition with the Dutch Instituut voor Nederlandse Lexicologie. At Tabriz his group works on semi-supervised and deep semi-supervised learning, boosting and ensembles, imbalanced data, learning from data streams, and clustering. It applies this work to medical imaging, sleep staging, biosignals and language."
+    ],
+    "education": [
+      "PhD, Computer Science (Informatics), University of Amsterdam, 2013",
+      "Thesis: Ensemble approaches to semi-supervised learning (SIKS Dissertation Series 2013-14)",
+      "Promotor: Prof. dr. Hamideh Afsarmanesh · Co-promotor: dr. Maarten van Someren"
+    ],
+    "interests": [
+      "Semi-supervised & deep semi-supervised learning",
+      "Boosting and ensemble learning",
+      "Imbalanced data learning",
+      "Data-stream learning",
+      "Clustering (semi-supervised, fuzzy, graph-based)",
+      "Deep learning for medical imaging & biosignals",
+      "Anomaly detection, sentiment analysis & NLP"
+    ],
+    "achievements": [
+      "Named among the World's Top 2% Scientists in the Stanford University / Elsevier ranking (2025 single-year impact, published October 2026). Subfield: Artificial Intelligence & Image Processing, ranked 10,256 of 517,648.",
+      "Most-cited work: “Boosting methods for multi-class imbalanced data classification: an experimental review” (Journal of Big Data, 2020), about 660 citations on Google Scholar",
+      "“Semi-supervised self-training for decision tree classifiers” (International Journal of Machine Learning and Cybernetics, 2017), about 386 citations",
+      "Papers at IEEE ICDM (2012, 2013), IEEE ICTAI (2011, 2012), ICDAR 2015 and ICFHR 2014",
+      "Journal papers in IEEE TKDE, IEEE TNNLS, Information Sciences, Pattern Recognition, Knowledge-Based Systems, Neurocomputing and Computers in Biology and Medicine"
+    ],
+    "links": {
+      "scholar": "https://scholar.google.com/citations?user=OlYEZEMAAAAJ",
+      "orcid": "https://orcid.org/0000-0002-0779-6027",
+      "researchgate": "https://www.researchgate.net/profile/Jafar-Tanha",
+      "dblp": "https://dblp.org/pid/67/8777",
+      "semanticscholar": "https://www.semanticscholar.org/author/1708315",
+      "scopus": "https://www.scopus.com/authid/detail.uri?authorId=24476811800",
+      "university": "https://faculty.tabrizu.ac.ir/tanha/fa/teachersInfo/cv/358",
+      "homepage": "https://www.dare.uva.nl/id/5e684172-e1fa-4baa-8d2e-2434d8315c4f"
+    },
+    "metrics": {
+      "citations": 2428,
+      "hindex": 23,
+      "i10": 39,
+      "source": "Google Scholar",
+      "asOf": "October 2026"
+    },
+    "photo": "assets/img/people/tanha.jpg",
+    "honor": {
+      "title": "World's Top 2% Scientists",
+      "detail": "Stanford University & Elsevier ranking, 2025 single-year impact · Artificial Intelligence & Image Processing",
+      "url": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9"
+    }
+  },
+  "people": {
+    "hassanzadeh": {
+      "photo": "assets/img/people/hassanzadeh.jpg",
+      "bio": "PhD in Artificial Intelligence, University of Tabriz (2020–2024). Her research uses deep learning to classify sleep stages from physiological signals, and also covers boosting and imbalanced data.",
+      "position": null
+    },
+    "baghaei": {
+      "photo": "assets/img/people/baghaei.jpg",
+      "bio": "Works on deep learning and computer vision, with a focus on domain adaptation. Co-author of A2RCMatch and of work on domain-adaptive activity recognition and robust explainable AI.",
+      "position": null
+    },
+    "jalili": {
+      "photo": "assets/img/people/jalili.jpg",
+      "bio": "Studies AI at the University of Tabriz, where he also earned his BE in Software Engineering. Works on medical image analysis and segmentation, and has a background in backend engineering.",
+      "position": null
+    },
+    "zarrin": {
+      "photo": "assets/img/people/zarrin.jpg",
+      "bio": "Works on weakly and semi-supervised medical image segmentation. First author of a deep ensemble segmentation model in Computers in Biology and Medicine (2024) and its 2026 follow-up.",
+      "position": null
+    },
+    "fakhim": {
+      "photo": "assets/img/people/fakhim.jpg",
+      "bio": "MSc, University of Tabriz (2021–2024), on biomedical signal processing for sleep apnea detection and sleep staging. He is now a PhD student at the University of Porto and a researcher at INESC TEC, working on deep learning for healthcare.",
+      "position": "PhD student, University of Porto · INESC TEC"
+    },
+    "iraji": {
+      "photo": "assets/img/people/iraji.jpg",
+      "bio": "Researcher in fuzzy and neuro-fuzzy systems and medical AI. In the lab he worked on semi-supervised GANs with consistency regularisation, COVID-19 detection and druggable protein prediction. He is now at Payame Noor University.",
+      "position": "Payame Noor University"
+    },
+    "behzad": {
+      "photo": "assets/img/people/behzad.jpg",
+      "bio": "MSc student in AI. Her interests are domain adaptation, semi-supervised learning and time-series.",
+      "position": null
+    },
+    "samadi": {
+      "bio": "PhD, University of Tabriz (2019–2025). Her research covers semi-supervised classification of data streams, boosting for imbalanced data and semi-supervised fuzzy clustering. She is first author of the lab's most-cited paper, a review of boosting methods for multi-class imbalanced data.",
+      "position": null,
+      "achievements": [
+        "First author of “Boosting methods for multi-class imbalanced data classification: an experimental review” (Journal of Big Data, 2020), about 660 citations"
+      ]
+    },
+    "rmohammadi": {
+      "bio": "Researcher in semi-supervised learning and imbalanced-data boosting. First author of A2RCMatch (Information Sciences, 2026).",
+      "position": null
+    },
+    "kazempour": {
+      "bio": "Works on medical image segmentation and super-resolution with semi-supervised and hybrid deep models.",
+      "position": null
+    },
+    "tarhib": {
+      "bio": "Worked on deep models for human activity recognition and character recognition in images.",
+      "position": null
+    },
+    "imanzadeh": {
+      "bio": "Works on deep semi-supervised ensembles for recognising human activity from smartphone sensors, and on recognising meter readings in images. Her work includes a 2025 paper in IEEE Sensors Journal.",
+      "position": null
+    },
+    "shahi": {
+      "bio": "Works on semi-supervised learning for medical images. Co-author of an uncertainty-weighted semi-supervised learning method published in Scientific Reports (2025).",
+      "position": null
+    },
+    "rasi": {
+      "bio": "Works on computer vision and imbalanced learning. First author of SUBoost (ICCKE 2025) and co-author of A2RCMatch (Information Sciences, 2026).",
+      "position": null
+    },
+    "roshan": {
+      "bio": "Works on medical image segmentation, imbalanced learning and semi-supervised learning, and is one of the lab's most prolific authors. His recent work is done jointly with the University of Turku and Turku PET Centre in Finland.",
+      "position": null
+    },
+    "nikkhah": {
+      "bio": "Works on semi-supervised and YOLO-based medical image segmentation, brain MRI reconstruction and paediatric wrist fracture detection.",
+      "position": null
+    },
+    "afraz": {
+      "bio": "Works on medical image segmentation. Co-author of A2RCMatch (Information Sciences, 2026).",
+      "position": null
+    },
+    "ghanbari": {
+      "bio": "Works on object detection and recognition. Co-author of IMBoost (Complexity, 2023).",
+      "position": null
+    },
+    "ghazal": {
+      "bio": "Faculty member at Northern Technical University in Iraq. He has published widely on computer vision, robotics and fault detection, and more recently on learning with noisy labels and multimodal medical diagnosis.",
+      "position": "Northern Technical University, Iraq"
+    },
+    "dolati": {
+      "position": null
+    }
+  },
+  "milestones": [
+    {
+      "year": "2026",
+      "feature": true,
+      "title": "Among the World's Top 2% Scientists",
+      "text": "Prof. Jafar Tanha was named in the Stanford University / Elsevier list of the world's top 2% most-cited scientists for 2025 (single-year impact). He is listed under Artificial Intelligence & Image Processing, ranked 10,256 of 517,648 researchers in that subfield.",
+      "who": "Jafar Tanha",
+      "url": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9"
+    },
+    {
+      "year": "2020",
+      "title": "A landmark review on imbalanced data",
+      "text": "“Boosting methods for multi-class imbalanced data classification: an experimental review” appeared in the Journal of Big Data. It is the lab’s most-cited paper, with about 660 citations on Google Scholar.",
+      "who": "Negin Samadi, Jafar Tanha, et al."
+    },
+    {
+      "year": "2013",
+      "title": "PhD, University of Amsterdam",
+      "text": "Dr. Tanha defended “Ensemble approaches to semi-supervised learning” (SIKS Dissertation Series 2013-14). This work laid the foundations for the lab’s research.",
+      "who": "Jafar Tanha"
+    },
+    {
+      "year": "2017",
+      "title": "Self-training for decision trees",
+      "text": "This International Journal of Machine Learning and Cybernetics paper became a standard reference for semi-supervised self-training. It has about 386 citations.",
+      "who": "Jafar Tanha, M. van Someren, H. Afsarmanesh"
+    },
+    {
+      "year": "2024",
+      "title": "PhD in AI: Sahar Hassanzadeh Mostafaei",
+      "text": "She completed a PhD (2020–2024) on deep learning for sleep medicine, including a transformer model with cross-modality attention for sleep staging.",
+      "who": "Alumni"
+    },
+    {
+      "year": "2025",
+      "title": "PhD: Negin Samadi",
+      "text": "She completed a PhD (2019–2025) on semi-supervised learning for data streams, imbalanced data and fuzzy clustering. She co-authored 17 papers with the lab.",
+      "who": "Alumni"
+    },
+    {
+      "year": "2025",
+      "title": "Alumni abroad: University of Porto & INESC TEC",
+      "text": "After his MSc on biomedical signal processing (2021–2024), Alireza Fakhim Babaei started a PhD at the University of Porto and INESC TEC in Portugal.",
+      "who": "Alumni"
+    },
+    {
+      "year": "2024",
+      "title": "Deep ensemble medical image segmentation",
+      "text": "Published in Computers in Biology and Medicine, with five lab members as co-authors. A 2026 follow-up on weakly semi-supervised segmentation appeared in the same journal.",
+      "who": "Roshan, Tanha, Zarrin, Fakhim Babaei, Nikkhah"
+    },
+    {
+      "year": "2025–26",
+      "title": "International collaboration with Turku",
+      "text": "SeyedEhsan Roshan’s recent papers on medical image segmentation are co-affiliated with the University of Turku and Turku PET Centre in Finland.",
+      "who": "Current student"
+    },
+    {
+      "year": "2026",
+      "title": "A2RCMatch in Information Sciences",
+      "text": "A dual-attention framework for reliable sample selection in semi-supervised learning, written by six lab members.",
+      "who": "R. Mohammadi, Tanha, Baghaei Oskouei, Jalili Majdi, Rasi Baghmishe, Afraz"
+    },
+    {
+      "year": "2026",
+      "title": "Review in IEEE TKDE",
+      "text": "“Beyond Predefined Clusters”, a comprehensive review of clustering methods for an unknown number of clusters, appeared in IEEE Transactions on Knowledge and Data Engineering.",
+      "who": "Jafar Tanha, et al."
+    }
+  ]
+}

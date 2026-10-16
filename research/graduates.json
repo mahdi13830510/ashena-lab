@@ -1,0 +1,1312 @@
+[
+  {
+    "name": "Negin Samadi",
+    "research_area": "Data streams",
+    "degree": "PhD",
+    "current_position": null,
+    "affiliation": "University of Tabriz (PhD, Electrical and Computer Engineering, 2019-2025 per ORCID)",
+    "bio": "PhD graduate of the University of Tabriz (2019-2025) whose work with Jafar Tanha covers semi-supervised classification of data streams, boosting for imbalanced data, and semi-supervised fuzzy clustering. Earlier co-authored complex-network/influential-spreader papers with Asgarali Bouyer.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0000-0002-9655-4766",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/52024407",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Negin+Samadi",
+      "openalex": "https://openalex.org/A5049349720"
+    },
+    "metrics": {
+      "citations": 916,
+      "hindex": 10,
+      "source": "OpenAlex (Semantic Scholar profile merges an unrelated plant-science Negin Samadi)"
+    },
+    "achievements": [
+      "First author of \"Boosting methods for multi-class imbalanced data classification: an experimental review\" (Journal of Big Data, 2020), 400+ citations"
+    ],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "OSSB: Online semi-supervised boosting for non-stationary data streams with limited labels",
+        "authors": [
+          "S. Khezri",
+          "Negin Samadi",
+          "J. Tanha",
+          "M. Sotoudeh"
+        ],
+        "year": 2026,
+        "venue": "Knowledge-Based Systems",
+        "url": "https://doi.org/10.1016/j.knosys.2026.116838",
+        "doi": "10.1016/j.knosys.2026.116838",
+        "citations": 0
+      },
+      {
+        "title": "VCoFWMVIFCM: An open-source code for viewpoint-based collaborative feature-weighted multi-view intuitionistic fuzzy clustering",
+        "authors": [
+          "Amin Golzari Oskouei",
+          "Negin Samadi",
+          "Asgarali Bouyer",
+          "J. Tanha"
+        ],
+        "year": 2025,
+        "venue": "Softw. Impacts",
+        "url": "https://doi.org/10.1016/j.simpa.2025.100743",
+        "doi": "10.1016/j.simpa.2025.100743",
+        "citations": 3
+      },
+      {
+        "title": "Feature-weight and cluster-weight learning in fuzzy c-means method for semi-supervised clustering",
+        "authors": [
+          "Amin Golzari Oskouei",
+          "Negin Samadi",
+          "J. Tanha"
+        ],
+        "year": 2024,
+        "venue": "Applied Soft Computing",
+        "url": "https://doi.org/10.1016/j.asoc.2024.111712",
+        "doi": "10.1016/j.asoc.2024.111712",
+        "citations": 52
+      },
+      {
+        "title": "Feature Selection in Phishing Attack Detection Using Bee Algorithm and Logistic Regression Method",
+        "authors": [
+          "Nazila Razzaghi-Asl",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "Negin Samadi",
+          "S. Mostafaei",
+          "Sayyad Nojavan"
+        ],
+        "year": 2024,
+        "venue": "2024 9th International Conference on Technology and Energy Management (ICTEM)",
+        "url": "https://doi.org/10.1109/ICTEM60690.2024.10631946",
+        "doi": "10.1109/ICTEM60690.2024.10631946",
+        "citations": 2
+      },
+      {
+        "title": "An experimental review of the ensemble-based data stream classification algorithms in non-stationary environments",
+        "authors": [
+          "S. Khezri",
+          "J. Tanha",
+          "Negin Samadi"
+        ],
+        "year": 2024,
+        "venue": "Computers & electrical engineering",
+        "url": "https://doi.org/10.1016/j.compeleceng.2024.109420",
+        "doi": "10.1016/j.compeleceng.2024.109420",
+        "citations": 3
+      },
+      {
+        "title": "Viewpoint-Based Collaborative Feature-Weighted Multi-View Intuitionistic Fuzzy Clustering Using Neighborhood Information",
+        "authors": [
+          "Amin Golzari Oskouei",
+          "Negin Samadi",
+          "J. Tanha",
+          "Asgarali Bouyer",
+          "Bahman Arasteh"
+        ],
+        "year": 2024,
+        "venue": "Neurocomputing",
+        "url": "https://doi.org/10.1016/j.neucom.2024.128884",
+        "doi": "10.1016/j.neucom.2024.128884",
+        "citations": 12
+      },
+      {
+        "title": "Graph theory-based semi-supervised self-training for data stream classification and emerging class detection",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "Mahdi Jalili"
+        ],
+        "year": 2024,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2024.121762",
+        "doi": "10.1016/j.ins.2024.121762",
+        "citations": 6
+      },
+      {
+        "title": "SSFCM-FWCW: Semi-Supervised Fuzzy C-Means method based on Feature-Weight and Cluster-Weight learning",
+        "authors": [
+          "Amin Golzari Oskouei",
+          "Negin Samadi",
+          "J. Tanha",
+          "Asgarali Bouyer"
+        ],
+        "year": 2024,
+        "venue": "Softw. Impacts",
+        "url": "https://doi.org/10.1016/j.simpa.2024.100678",
+        "doi": "10.1016/j.simpa.2024.100678",
+        "citations": 14
+      },
+      {
+        "title": "A Deep Ensemble model to Recognize Human Activities using inertial sensors on smartphones",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Nazila Razzaghi-Asl",
+          "S. Mostafaei",
+          "Negin Samadi",
+          "Sanaz Tarhib"
+        ],
+        "year": 2024,
+        "venue": "CSI International Symposium on Artificial Intelligence and Signal Processing",
+        "url": "https://doi.org/10.1109/AISP61396.2024.10475271",
+        "doi": "10.1109/AISP61396.2024.10475271",
+        "citations": 2
+      },
+      {
+        "title": "A Weighted Semi-supervised Possibilistic Fuzzy c-Means algorithm for data stream classification and emerging class detection",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "Mahdi Jalili"
+        ],
+        "year": 2024,
+        "venue": "Knowledge-Based Systems",
+        "url": "https://doi.org/10.1016/j.knosys.2024.112831",
+        "doi": "10.1016/j.knosys.2024.112831",
+        "citations": 12
+      },
+      {
+        "title": "A boosting based approach to handle imbalanced data",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Negin Samadi",
+          "Soodabeh Imanzadeh",
+          "Nazila Razzaghi-Asl"
+        ],
+        "year": 2022,
+        "venue": "2022 30th International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/icee55646.2022.9827026",
+        "doi": "10.1109/icee55646.2022.9827026",
+        "citations": 1
+      },
+      {
+        "title": "Spreader node detection based on the Perron-Frobenius theorem in complex networks",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "S. Mostafaei",
+          "Nazila Razzaghi-Asl",
+          "Soodabeh Imanzadeh"
+        ],
+        "year": 2022,
+        "venue": "International Computer Society of Iran Computer Conference",
+        "url": "https://doi.org/10.1109/CSICC55295.2022.9780519",
+        "doi": "10.1109/CSICC55295.2022.9780519",
+        "citations": 0
+      },
+      {
+        "title": "CPSSDS: Conformal prediction for semi-supervised classification on data streams",
+        "authors": [
+          "J. Tanha",
+          "Negin Samadi",
+          "Yousef Abdi",
+          "Nazila Razzaghi-Asl"
+        ],
+        "year": 2021,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2021.10.068",
+        "doi": "10.1016/j.ins.2021.10.068",
+        "citations": 50
+      },
+      {
+        "title": "Smart Grid based decentralized Peer-to-Peer Energy Trading Using Whale Optimization Algorithm",
+        "authors": [
+          "Nazila Razzaghi-Asl",
+          "J. Tanha",
+          "Mehdi Nabatian",
+          "Negin Samadi"
+        ],
+        "year": 2021,
+        "venue": "2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)",
+        "url": "https://doi.org/10.1109/ICSPIS54653.2021.9729347",
+        "doi": "10.1109/ICSPIS54653.2021.9729347",
+        "citations": 0
+      },
+      {
+        "title": "An improvement on quantum clustering",
+        "authors": [
+          "Mehdi Nabatian",
+          "J. Tanha",
+          "A. Ebrahimzadeh",
+          "Negin Samadi",
+          "Nazila Razzaghi-Asl"
+        ],
+        "year": 2021,
+        "venue": "2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)",
+        "url": "https://doi.org/10.1109/ICSPIS54653.2021.9729349",
+        "doi": "10.1109/ICSPIS54653.2021.9729349",
+        "citations": 2
+      },
+      {
+        "title": "A novel local approach for identifying bridging edges in complex networks",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "Nazila Razzaghi-Asl",
+          "Mehdi Nabatian"
+        ],
+        "year": 2021,
+        "venue": "2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)",
+        "url": "https://doi.org/10.1109/ICSPIS54653.2021.9729373",
+        "doi": "10.1109/ICSPIS54653.2021.9729373",
+        "citations": 1
+      },
+      {
+        "title": "Boosting methods for multi-class imbalanced data classification: an experimental review",
+        "authors": [
+          "J. Tanha",
+          "Yousef Abdi",
+          "Negin Samadi",
+          "Nazila Razzaghi",
+          "M. Asadpour"
+        ],
+        "year": 2020,
+        "venue": "Journal of Big Data",
+        "url": "https://doi.org/10.1186/s40537-020-00349-y",
+        "doi": "10.1186/s40537-020-00349-y",
+        "citations": 436
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Sahar Hassanzadeh Mostafaei",
+    "research_area": "Sleep medicine",
+    "degree": "PhD",
+    "current_position": null,
+    "affiliation": "University of Tabriz (PhD in AI, 2020-2024 per ORCID)",
+    "bio": "PhD in Artificial Intelligence from the University of Tabriz (2020-2024). Research on deep learning for sleep-stage classification from biological signals, boosting and imbalanced data.",
+    "links": {
+      "scholar": "https://scholar.google.com/citations?user=CJHOdWoAAAAJ",
+      "orcid": "https://orcid.org/0000-0001-6521-0840",
+      "researchgate": "https://www.researchgate.net/profile/Sahar-Hassanzadeh-Mostafaei",
+      "linkedin": "https://ir.linkedin.com/in/sahar-hassanzadehm",
+      "github": "https://github.com/saharhzm/",
+      "semanticscholar": "https://www.semanticscholar.org/author/2166500278",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Sahar+Hassanzadeh+Mostafaei",
+      "openalex": "https://openalex.org/A5002152114"
+    },
+    "metrics": {
+      "citations": 122,
+      "hindex": 6,
+      "source": "Google Scholar"
+    },
+    "achievements": [
+      "Journal of Biomedical Informatics 2024 paper on transformer + cross-modality attention for sleep staging (50+ citations)"
+    ],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "EnsembleSleepNet: a novel ensemble deep learning model based on transformers and attention mechanisms using multimodal data for sleep stages classification",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Amir Sharafkhaneh"
+        ],
+        "year": 2025,
+        "venue": "Applied intelligence (Boston)",
+        "url": "https://doi.org/10.1007/s10489-025-06484-4",
+        "doi": "10.1007/s10489-025-06484-4",
+        "citations": 6
+      },
+      {
+        "title": "Feature Selection in Phishing Attack Detection Using Bee Algorithm and Logistic Regression Method",
+        "authors": [
+          "Nazila Razzaghi-Asl",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "Negin Samadi",
+          "S. Mostafaei",
+          "Sayyad Nojavan"
+        ],
+        "year": 2024,
+        "venue": "2024 9th International Conference on Technology and Energy Management (ICTEM)",
+        "url": "https://doi.org/10.1109/ICTEM60690.2024.10631946",
+        "doi": "10.1109/ICTEM60690.2024.10631946",
+        "citations": 2
+      },
+      {
+        "title": "A Deep Learning-Based Model for House Number Detection and Recognition",
+        "authors": [
+          "Roghaiyeh Tayefeh Younesi",
+          "J. Tanha",
+          "Samaneh Namvar",
+          "S. Mostafaei"
+        ],
+        "year": 2024,
+        "venue": "2024 32nd International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/ICEE63041.2024.10668257",
+        "doi": "10.1109/ICEE63041.2024.10668257",
+        "citations": 0
+      },
+      {
+        "title": "A Deep Ensemble model to Recognize Human Activities using inertial sensors on smartphones",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Nazila Razzaghi-Asl",
+          "S. Mostafaei",
+          "Negin Samadi",
+          "Sanaz Tarhib"
+        ],
+        "year": 2024,
+        "venue": "CSI International Symposium on Artificial Intelligence and Signal Processing",
+        "url": "https://doi.org/10.1109/AISP61396.2024.10475271",
+        "doi": "10.1109/AISP61396.2024.10475271",
+        "citations": 2
+      },
+      {
+        "title": "A novel deep learning model based on transformer and cross modality attention for classification of sleep stages",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Amir Sharafkhaneh"
+        ],
+        "year": 2024,
+        "venue": "Journal of Biomedical Informatics",
+        "url": "https://doi.org/10.1016/j.jbi.2024.104689",
+        "doi": "10.1016/j.jbi.2024.104689",
+        "citations": 42
+      },
+      {
+        "title": "A CNN-BiLSTM based deep learning model to sentiment analysis",
+        "authors": [
+          "Roghaiyeh Tayefeh Younesi",
+          "J. Tanha",
+          "Samaneh Namvar",
+          "S. Mostafaei"
+        ],
+        "year": 2024,
+        "venue": "CSI International Symposium on Artificial Intelligence and Signal Processing",
+        "url": "https://doi.org/10.1109/AISP61396.2024.10475311",
+        "doi": "10.1109/AISP61396.2024.10475311",
+        "citations": 0
+      },
+      {
+        "title": "An Ensemble Model for Sleep Stages Classification",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Amir Sharafkhaneh",
+          "Zohair Hassanzadeh Mostafaei",
+          "Mohammed Hussein Ali Al-Jaf",
+          "Alireza Fakhim Babaei"
+        ],
+        "year": 2023,
+        "venue": "2023 31st International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/ICEE59167.2023.10334772",
+        "doi": "10.1109/ICEE59167.2023.10334772",
+        "citations": 6
+      },
+      {
+        "title": "Biological Signals for Diagnosing Sleep Stages Using Machine Learning Models",
+        "authors": [
+          "Sahar Hassanzadeh Mostafaei",
+          "J. Tanha",
+          "A. Sharafkhaneh",
+          "Ritwick Agrawal",
+          "Zohair Hassanzadeh Mostafaei"
+        ],
+        "year": 2023,
+        "venue": "International Computer Society of Iran Computer Conference",
+        "url": "https://doi.org/10.1109/CSICC58665.2023.10105400",
+        "doi": "10.1109/CSICC58665.2023.10105400",
+        "citations": 2
+      },
+      {
+        "title": "OUBoost: boosting based over and under sampling technique for handling imbalanced data",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha"
+        ],
+        "year": 2023,
+        "venue": "International Journal of Machine Learning and Cybernetics",
+        "url": "https://doi.org/10.1007/s13042-023-01839-0",
+        "doi": "10.1007/s13042-023-01839-0",
+        "citations": 13
+      },
+      {
+        "title": "Multi Model CNN Based Gas Meter Characters Recognition",
+        "authors": [
+          "Sanaz Tarhib",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "S. Mostafaei"
+        ],
+        "year": 2023,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE60553.2023.10326299",
+        "doi": "10.1109/ICCKE60553.2023.10326299",
+        "citations": 2
+      },
+      {
+        "title": "A boosting based approach to handle imbalanced data",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Negin Samadi",
+          "Soodabeh Imanzadeh",
+          "Nazila Razzaghi-Asl"
+        ],
+        "year": 2022,
+        "venue": "2022 30th International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/icee55646.2022.9827026",
+        "doi": "10.1109/icee55646.2022.9827026",
+        "citations": 1
+      },
+      {
+        "title": "Spreader node detection based on the Perron-Frobenius theorem in complex networks",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "S. Mostafaei",
+          "Nazila Razzaghi-Asl",
+          "Soodabeh Imanzadeh"
+        ],
+        "year": 2022,
+        "venue": "International Computer Society of Iran Computer Conference",
+        "url": "https://doi.org/10.1109/CSICC55295.2022.9780519",
+        "doi": "10.1109/CSICC55295.2022.9780519",
+        "citations": 0
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Razieh Mohammadi",
+    "research_area": "Energy harvesting",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz (per OpenAlex, on Tanha co-authored papers)",
+    "bio": "Co-authored semi-supervised learning (A2RCMatch) and imbalanced-data boosting papers with Jafar Tanha and M. Balafar at the University of Tabriz.",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2191847111",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Razieh+Mohammadi",
+      "openalex": "https://openalex.org/A5138228898"
+    },
+    "metrics": {
+      "citations": 114,
+      "hindex": 6,
+      "source": "Semantic Scholar (profile may merge with energy-harvesting papers; unverified)"
+    },
+    "achievements": [],
+    "confidence": "medium",
+    "notes": "A Razieh Mohammadi (Shahid Rajaee Teacher Training University, with Zahra Shirmohammadi) published several energy-harvesting body sensor node / WSN papers 2022-2025 (e.g., DRDC, Energy Reports 2023, doi 10.1016/j.egyr.2022.12.138; RLS2, Computer Networks 2023, doi 10.1016/j.comnet.2023.109781). This matches the listed research area but is NOT confirmed to be the same person, so these are not included in publications.",
+    "publications": [
+      {
+        "title": "A2RCMatch: dual-attention framework for reliable sample selection and consistency regularization in semi-supervised learning",
+        "authors": [
+          "Razieh Mohammadi",
+          "J. Tanha",
+          "M. Balafar",
+          "Mahdi Baghaei Oskouei",
+          "Hamed Jalili",
+          "Nima Rasi Baghmishe",
+          "Pouya Afraz"
+        ],
+        "year": 2026,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2026.123735",
+        "doi": "10.1016/j.ins.2026.123735",
+        "citations": 0
+      },
+      {
+        "title": "Self-adaptive over and under-sampling approach based on boosting with a new weighting factor for imbalanced data classification",
+        "authors": [
+          "Razieh Mohammadi",
+          "J. Tanha",
+          "Nazila Pourhaji Aghayengejeh",
+          "M. Balafar"
+        ],
+        "year": 2026,
+        "venue": "Computers & electrical engineering",
+        "url": "https://doi.org/10.1016/j.compeleceng.2025.110783",
+        "doi": "10.1016/j.compeleceng.2025.110783",
+        "citations": 2
+      }
+    ]
+  },
+  {
+    "name": "Amin Kazempour",
+    "research_area": "Semi-supervised learning, Medical image analysis",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz",
+    "bio": "University of Tabriz researcher who co-authored medical image segmentation and super-resolution papers with Jafar Tanha and Mahdi Zarrin.",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2346126164",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Amin+Kazempour",
+      "openalex": "https://openalex.org/A5116309320"
+    },
+    "metrics": {
+      "citations": 15,
+      "hindex": 2,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A novel consistency-guided and pseudo labeled training for weakly-semi-supervised medical image segmentation",
+        "authors": [
+          "Mahdi Zarrin",
+          "J. Tanha",
+          "Amin Kazempour",
+          "Haniyeh Nikkhah",
+          "S. Roshan"
+        ],
+        "year": 2026,
+        "venue": "Comput. Biol. Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2026.111631",
+        "doi": "10.1016/j.compbiomed.2026.111631",
+        "citations": 1
+      },
+      {
+        "title": "YM-WML: A new Yolo-based segmentation Model with Weighted Multi-class Loss for medical imaging",
+        "authors": [
+          "Haniyeh Nikkhah",
+          "J. Tanha",
+          "Mahdi Zarrin",
+          "S. Roshan",
+          "Amin Kazempour"
+        ],
+        "year": 2025,
+        "venue": "arXiv.org",
+        "url": "https://doi.org/10.48550/arXiv.2506.22955",
+        "doi": "10.48550/arXiv.2506.22955",
+        "citations": 1
+      },
+      {
+        "title": "MC-BioCLIPSR: A Mamba-CNN Hybrid Network with BioMedCLIP-Guided Loss for High-Resolution Brain MRI Reconstruction",
+        "authors": [
+          "Amin Kazempour",
+          "J. Tanha",
+          "S. Roshan",
+          "Mahdi Zarrin",
+          "Haniyeh Nikkhah"
+        ],
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273813",
+        "doi": "10.1109/ICCKE68588.2025.11273813",
+        "citations": 1
+      },
+      {
+        "title": "Multi-Digit Handwritten Recognition: A CNN-LSTM Hybrid Approach with Wavelet Transforms",
+        "authors": [
+          "Amin Kazempour",
+          "J. Tanha"
+        ],
+        "year": 2024,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE65377.2024.10874606",
+        "doi": "10.1109/ICCKE65377.2024.10874606",
+        "citations": 6
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Mahdi Zarrin",
+    "research_area": "Semi-supervised learning, Medical image analysis",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz",
+    "bio": "University of Tabriz researcher working on (weakly/semi-supervised) medical image segmentation with Jafar Tanha; first author of a Computers in Biology and Medicine 2024 deep ensemble segmentation paper and a 2026 weakly-semi-supervised follow-up.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0002-4538-6923",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2291765827",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Mahdi+Zarrin",
+      "openalex": "https://openalex.org/A5101627216"
+    },
+    "metrics": {
+      "citations": 37,
+      "hindex": 1,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A novel consistency-guided and pseudo labeled training for weakly-semi-supervised medical image segmentation",
+        "authors": [
+          "Mahdi Zarrin",
+          "J. Tanha",
+          "Amin Kazempour",
+          "Haniyeh Nikkhah",
+          "S. Roshan"
+        ],
+        "year": 2026,
+        "venue": "Comput. Biol. Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2026.111631",
+        "doi": "10.1016/j.compbiomed.2026.111631",
+        "citations": 1
+      },
+      {
+        "title": "YM-WML: A new Yolo-based segmentation Model with Weighted Multi-class Loss for medical imaging",
+        "authors": [
+          "Haniyeh Nikkhah",
+          "J. Tanha",
+          "Mahdi Zarrin",
+          "S. Roshan",
+          "Amin Kazempour"
+        ],
+        "year": 2025,
+        "venue": "arXiv.org",
+        "url": "https://doi.org/10.48550/arXiv.2506.22955",
+        "doi": "10.48550/arXiv.2506.22955",
+        "citations": 1
+      },
+      {
+        "title": "MC-BioCLIPSR: A Mamba-CNN Hybrid Network with BioMedCLIP-Guided Loss for High-Resolution Brain MRI Reconstruction",
+        "authors": [
+          "Amin Kazempour",
+          "J. Tanha",
+          "S. Roshan",
+          "Mahdi Zarrin",
+          "Haniyeh Nikkhah"
+        ],
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273813",
+        "doi": "10.1109/ICCKE68588.2025.11273813",
+        "citations": 1
+      },
+      {
+        "title": "A Novel Hybrid CNN-Mamba Framework with DySample-Enhanced YOLOv11 for Automated Pediatric Wrist Fracture Detection",
+        "authors": [
+          "J. Tanha",
+          "Mahdi Zarrin",
+          "Haniyeh Nikkhah"
+        ],
+        "year": 2025,
+        "venue": "Journal of Artificial Intelligence, Applications, and Innovations",
+        "url": "https://doi.org/10.61838/jaiai.2.1.2",
+        "doi": "10.61838/jaiai.2.1.2",
+        "citations": 0
+      },
+      {
+        "title": "A deep ensemble medical image segmentation with novel sampling method and loss function",
+        "authors": [
+          "S. Roshan",
+          "J. Tanha",
+          "Mahdi Zarrin",
+          "Alireza Fakhim Babaei",
+          "Haniyeh Nikkhah",
+          "Zahra Jafari"
+        ],
+        "year": 2024,
+        "venue": "Comput. Biol. Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2024.108305",
+        "doi": "10.1016/j.compbiomed.2024.108305",
+        "citations": 34
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Sanaz Tarhib",
+    "research_area": "Generative adversarial networks",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz",
+    "bio": "University of Tabriz author on two conference papers with Jafar Tanha (human activity recognition; gas meter character recognition). No GAN-specific publications found.",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2268576422",
+      "homepage": null,
+      "dblp": null,
+      "openalex": "https://openalex.org/A5093345850"
+    },
+    "metrics": {
+      "citations": 4,
+      "hindex": 2,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A Deep Ensemble model to Recognize Human Activities using inertial sensors on smartphones",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Nazila Razzaghi-Asl",
+          "S. Mostafaei",
+          "Negin Samadi",
+          "Sanaz Tarhib"
+        ],
+        "year": 2024,
+        "venue": "CSI International Symposium on Artificial Intelligence and Signal Processing",
+        "url": "https://doi.org/10.1109/AISP61396.2024.10475271",
+        "doi": "10.1109/AISP61396.2024.10475271",
+        "citations": 2
+      },
+      {
+        "title": "Multi Model CNN Based Gas Meter Characters Recognition",
+        "authors": [
+          "Sanaz Tarhib",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "S. Mostafaei"
+        ],
+        "year": 2023,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE60553.2023.10326299",
+        "doi": "10.1109/ICCKE60553.2023.10326299",
+        "citations": 2
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Soodabeh Imanzadeh",
+    "research_area": "Time-series",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz",
+    "bio": "University of Tabriz researcher on deep (semi-supervised) ensemble models for smartphone-sensor human activity recognition and meter-reading text recognition, with Jafar Tanha.",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2166502538",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Soodabeh+Imanzadeh",
+      "openalex": "https://openalex.org/A5047000323"
+    },
+    "metrics": {
+      "citations": 24,
+      "hindex": 2,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [
+      "IEEE Sensors Journal 2025 paper on deep semi-supervised HAR"
+    ],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "Enhancing Human Activity Recognition With Smartphone Sensors: A Deep Semi-Supervised Approach",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Mahdi Jalili"
+        ],
+        "year": 2025,
+        "venue": "IEEE Sensors Journal",
+        "url": "https://doi.org/10.1109/JSEN.2025.3586540",
+        "doi": "10.1109/JSEN.2025.3586540",
+        "citations": 2
+      },
+      {
+        "title": "Ensemble of deep learning techniques to human activity recognition using smart phone signals",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Mahdi Jalili"
+        ],
+        "year": 2024,
+        "venue": "Multimedia tools and applications",
+        "url": "https://doi.org/10.1007/s11042-024-18935-0",
+        "doi": "10.1007/s11042-024-18935-0",
+        "citations": 8
+      },
+      {
+        "title": "Feature Selection in Phishing Attack Detection Using Bee Algorithm and Logistic Regression Method",
+        "authors": [
+          "Nazila Razzaghi-Asl",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "Negin Samadi",
+          "S. Mostafaei",
+          "Sayyad Nojavan"
+        ],
+        "year": 2024,
+        "venue": "2024 9th International Conference on Technology and Energy Management (ICTEM)",
+        "url": "https://doi.org/10.1109/ICTEM60690.2024.10631946",
+        "doi": "10.1109/ICTEM60690.2024.10631946",
+        "citations": 2
+      },
+      {
+        "title": "A Deep Ensemble model to Recognize Human Activities using inertial sensors on smartphones",
+        "authors": [
+          "Soodabeh Imanzadeh",
+          "J. Tanha",
+          "Nazila Razzaghi-Asl",
+          "S. Mostafaei",
+          "Negin Samadi",
+          "Sanaz Tarhib"
+        ],
+        "year": 2024,
+        "venue": "CSI International Symposium on Artificial Intelligence and Signal Processing",
+        "url": "https://doi.org/10.1109/AISP61396.2024.10475271",
+        "doi": "10.1109/AISP61396.2024.10475271",
+        "citations": 2
+      },
+      {
+        "title": "A hybrid deep-based model for scene text detection and recognition in meter reading",
+        "authors": [
+          "Adil Abdullah Abdulhussein Alshawi",
+          "J. Tanha",
+          "M. Balafar",
+          "Soodabeh Imanzadeh"
+        ],
+        "year": 2023,
+        "venue": "International journal of information technology",
+        "url": "https://doi.org/10.1007/s41870-023-01383-8",
+        "doi": "10.1007/s41870-023-01383-8",
+        "citations": 7
+      },
+      {
+        "title": "Multi Model CNN Based Gas Meter Characters Recognition",
+        "authors": [
+          "Sanaz Tarhib",
+          "J. Tanha",
+          "Soodabeh Imanzadeh",
+          "S. Mostafaei"
+        ],
+        "year": 2023,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE60553.2023.10326299",
+        "doi": "10.1109/ICCKE60553.2023.10326299",
+        "citations": 2
+      },
+      {
+        "title": "A boosting based approach to handle imbalanced data",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Negin Samadi",
+          "Soodabeh Imanzadeh",
+          "Nazila Razzaghi-Asl"
+        ],
+        "year": 2022,
+        "venue": "2022 30th International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/icee55646.2022.9827026",
+        "doi": "10.1109/icee55646.2022.9827026",
+        "citations": 1
+      },
+      {
+        "title": "Spreader node detection based on the Perron-Frobenius theorem in complex networks",
+        "authors": [
+          "Negin Samadi",
+          "J. Tanha",
+          "S. Mostafaei",
+          "Nazila Razzaghi-Asl",
+          "Soodabeh Imanzadeh"
+        ],
+        "year": 2022,
+        "venue": "International Computer Society of Iran Computer Conference",
+        "url": "https://doi.org/10.1109/CSICC55295.2022.9780519",
+        "doi": "10.1109/CSICC55295.2022.9780519",
+        "citations": 0
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Sana Chaychi",
+    "research_area": "Semi-supervised learning",
+    "degree": null,
+    "current_position": null,
+    "affiliation": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null,
+      "openalex": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "achievements": [],
+    "confidence": "none",
+    "notes": "No publications or profiles found (Semantic Scholar, OpenAlex, Crossref, web). No Chaychi appears among Tanha co-authors.",
+    "publications": []
+  },
+  {
+    "name": "Mohammad Saber Iraji",
+    "research_area": "Medical image analysis",
+    "degree": "PhD (University of Tabriz, per ORCID education entry; degree type inferred)",
+    "current_position": null,
+    "affiliation": "Payame Noor University (OpenAlex last known institution)",
+    "bio": "Researcher with a long publication record in fuzzy/neuro-fuzzy systems and medical AI; with Jafar Tanha worked on semi-supervised (bad) GANs with consistency regularization, COVID-19 detection, and druggable protein prediction.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0000-0003-3825-7285",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/8980648",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Mohammad+Saber+Iraji",
+      "openalex": "https://openalex.org/A5071442688"
+    },
+    "metrics": {
+      "citations": 323,
+      "hindex": 12,
+      "source": "OpenAlex (Semantic Scholar: 308 / 12)"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A novel individual-relational consistency for bad semi-supervised generative adversarial networks (IRC-BSGAN) in image classification and synthesis",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "J. Tanha",
+          "M. Balafar",
+          "M. Feizi-Derakhshi"
+        ],
+        "year": 2024,
+        "venue": "Applied intelligence (Boston)",
+        "url": "https://doi.org/10.1007/s10489-024-05688-4",
+        "doi": "10.1007/s10489-024-05688-4",
+        "citations": 3
+      },
+      {
+        "title": "Image classification with consistency-regularized bad semi-supervised generative adversarial networks: a visual data analysis and synthesis",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "J. Tanha",
+          "M. Balafar",
+          "M. Feizi-Derakhshi"
+        ],
+        "year": 2024,
+        "venue": "The Visual Computer",
+        "url": "https://doi.org/10.1007/s00371-024-03360-z",
+        "doi": "10.1007/s00371-024-03360-z",
+        "citations": 1
+      },
+      {
+        "title": "A novel interpolation consistency for bad generative adversarial networks (IC-BGAN)",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "J. Tanha",
+          "M. Balafar",
+          "M. Feizi-Derakhshi"
+        ],
+        "year": 2024,
+        "venue": "Multimedia tools and applications",
+        "url": "https://doi.org/10.1007/s11042-024-20333-5",
+        "doi": "10.1007/s11042-024-20333-5",
+        "citations": 4
+      },
+      {
+        "title": "Druggable protein prediction using a multi-canal deep convolutional neural network based on autocovariance method",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "J. Tanha",
+          "M. Habibinejad"
+        ],
+        "year": 2022,
+        "venue": "Comput. Biol. Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2022.106276",
+        "doi": "10.1016/j.compbiomed.2022.106276",
+        "citations": 12
+      },
+      {
+        "title": "COVID-19 Detection Using Deep Convolutional Neural Networks and Binary Differential Algorithm-Based Feature Selection from X-Ray Images",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "M. Feizi-Derakhshi",
+          "J. Tanha"
+        ],
+        "year": 2021,
+        "venue": "Complex",
+        "url": "https://doi.org/10.1155/2021/9973277",
+        "doi": "10.1155/2021/9973277",
+        "citations": 16
+      },
+      {
+        "title": "Deep learning for COVID-19 diagnosis based feature selection using binary differential evolution algorithm",
+        "authors": [
+          "Mohammad Saber Iraji",
+          "M. Feizi-Derakhshi",
+          "J. Tanha"
+        ],
+        "year": 2021,
+        "venue": "arXiv.org",
+        "url": "https://www.semanticscholar.org/paper/f4b4a7e22914403b4893e458c8bf020ef1d84516",
+        "doi": null,
+        "citations": 3
+      },
+      {
+        "title": "Semi-supervised generative adversarial networks for imbalanced skin lesion diagnosis",
+        "authors": [
+          "Mohammad Saber Iraji"
+        ],
+        "year": 2025,
+        "venue": "Engineering Applications of Artificial Intelligence",
+        "url": "https://doi.org/10.1016/j.engappai.2025.111643",
+        "doi": "10.1016/j.engappai.2025.111643",
+        "citations": 14
+      },
+      {
+        "title": "Prediction of fetal state from the cardiotocogram recordings using neural network models",
+        "authors": [
+          "Mohammad Saber Iraji"
+        ],
+        "year": 2019,
+        "venue": "Artificial Intelligence in Medicine",
+        "url": "https://doi.org/10.1016/J.ARTMED.2019.03.005",
+        "doi": "10.1016/J.ARTMED.2019.03.005",
+        "citations": 48
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Alireza Fakhim Babaei",
+    "research_area": "Biomedical Signal Processing",
+    "degree": "MSc (University of Tabriz, 2021-2024); now PhD student",
+    "current_position": "PhD student, Universidade do Porto (Faculty of Science, from 2025); researcher at INESC TEC (from 2024)",
+    "affiliation": "INESC TEC / University of Porto, Portugal",
+    "bio": "MSc in Electrical & Computer Engineering from the University of Tabriz (2021-2024), now a PhD student at the University of Porto and researcher at INESC TEC working on deep learning for healthcare. With Tanha published on sleep apnea detection (IEEE Access 2025) and sleep staging.",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0006-0506-0223",
+      "researchgate": null,
+      "linkedin": "https://www.linkedin.com/in/alireza-fb/",
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2273980355",
+      "homepage": null,
+      "dblp": "https://dblp.org/search?q=Alireza+Fakhim+Babaei",
+      "openalex": "https://openalex.org/A5114150215"
+    },
+    "metrics": {
+      "citations": 58,
+      "hindex": 4,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A Novel Multimodal Deep Learning Approach With Loss Function for Detection of Sleep Apnea Events",
+        "authors": [
+          "Alireza Fakhim Babaei",
+          "J. Tanha",
+          "M. Balafar",
+          "S. Roshan"
+        ],
+        "year": 2025,
+        "venue": "IEEE Access",
+        "url": "https://doi.org/10.1109/ACCESS.2025.3552254",
+        "doi": "10.1109/ACCESS.2025.3552254",
+        "citations": 12
+      },
+      {
+        "title": "A deep ensemble medical image segmentation with novel sampling method and loss function",
+        "authors": [
+          "S. Roshan",
+          "J. Tanha",
+          "Mahdi Zarrin",
+          "Alireza Fakhim Babaei",
+          "Haniyeh Nikkhah",
+          "Zahra Jafari"
+        ],
+        "year": 2024,
+        "venue": "Comput. Biol. Medicine",
+        "url": "https://doi.org/10.1016/j.compbiomed.2024.108305",
+        "doi": "10.1016/j.compbiomed.2024.108305",
+        "citations": 34
+      },
+      {
+        "title": "A Hybrid Deep Learning Model for 5-Digit Handwritten Recognition",
+        "authors": [
+          "Alireza Fakhim Babaei",
+          "J. Tanha",
+          "Amir Fakhim Babaei",
+          "M. Matin"
+        ],
+        "year": 2024,
+        "venue": "2024 10th International Conference on Artificial Intelligence and Robotics (QICAR)",
+        "url": "https://doi.org/10.1109/QICAR61538.2024.10496604",
+        "doi": "10.1109/QICAR61538.2024.10496604",
+        "citations": 6
+      },
+      {
+        "title": "An Ensemble Model for Sleep Stages Classification",
+        "authors": [
+          "S. Mostafaei",
+          "J. Tanha",
+          "Amir Sharafkhaneh",
+          "Zohair Hassanzadeh Mostafaei",
+          "Mohammed Hussein Ali Al-Jaf",
+          "Alireza Fakhim Babaei"
+        ],
+        "year": 2023,
+        "venue": "2023 31st International Conference on Electrical Engineering (ICEE)",
+        "url": "https://doi.org/10.1109/ICEE59167.2023.10334772",
+        "doi": "10.1109/ICEE59167.2023.10334772",
+        "citations": 6
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Nasrin Shahi",
+    "research_area": "Medical image analysis",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz",
+    "bio": "University of Tabriz co-author (with Jafar Tanha) of a Scientific Reports 2025 paper on uncertainty-weighted semi-supervised learning.",
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2394962860",
+      "homepage": null,
+      "dblp": null,
+      "openalex": "https://openalex.org/A5120479138"
+    },
+    "metrics": {
+      "citations": 1,
+      "hindex": 1,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "Uncertainty-weighted semi-supervised learning with dynamic entropy masking and Bhattacharyya-regularized loss",
+        "authors": [
+          "M. Ghazal",
+          "J. Tanha",
+          "Nasrin Shahi",
+          "S. Roshan"
+        ],
+        "year": 2025,
+        "venue": "Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-025-30069-3",
+        "doi": "10.1038/s41598-025-30069-3",
+        "citations": 1
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Nima Rasi Baghmishe",
+    "research_area": "Computer Vision",
+    "degree": null,
+    "current_position": null,
+    "affiliation": "University of Tabriz, Faculty of Electrical and Computer Engineering (ORCID)",
+    "bio": "University of Tabriz researcher; first author of SUBoost (boosting-based selective undersampling, ICCKE 2025) with Jafar Tanha and co-author of A2RCMatch (Information Sciences 2026).",
+    "links": {
+      "scholar": null,
+      "orcid": "https://orcid.org/0009-0009-6835-9822",
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": "https://www.semanticscholar.org/author/2397634614",
+      "homepage": null,
+      "dblp": null,
+      "openalex": "https://openalex.org/A5120775978"
+    },
+    "metrics": {
+      "citations": 0,
+      "hindex": 0,
+      "source": "Semantic Scholar"
+    },
+    "achievements": [],
+    "confidence": "high",
+    "publications": [
+      {
+        "title": "A2RCMatch: dual-attention framework for reliable sample selection and consistency regularization in semi-supervised learning",
+        "authors": [
+          "Razieh Mohammadi",
+          "J. Tanha",
+          "M. Balafar",
+          "Mahdi Baghaei Oskouei",
+          "Hamed Jalili",
+          "Nima Rasi Baghmishe",
+          "Pouya Afraz"
+        ],
+        "year": 2026,
+        "venue": "Information Sciences",
+        "url": "https://doi.org/10.1016/j.ins.2026.123735",
+        "doi": "10.1016/j.ins.2026.123735",
+        "citations": 0
+      },
+      {
+        "title": "SUBoost: A Novel Boosting-Based Selective Undersampling for Handling Imbalanced Data",
+        "authors": [
+          "Nima Rasi Baghmishe",
+          "J. Tanha",
+          "Ehsan Roshan"
+        ],
+        "year": 2025,
+        "venue": "International Conference on Computer and Knowledge Engineering",
+        "url": "https://doi.org/10.1109/ICCKE68588.2025.11273834",
+        "doi": "10.1109/ICCKE68588.2025.11273834",
+        "citations": 0
+      }
+    ],
+    "notes": null
+  },
+  {
+    "name": "Mahdi Dolati",
+    "research_area": "Medical image analysis",
+    "degree": null,
+    "current_position": "Possibly Sabanci University, Turkey (unverified)",
+    "affiliation": null,
+    "bio": null,
+    "links": {
+      "scholar": null,
+      "orcid": null,
+      "researchgate": null,
+      "linkedin": null,
+      "github": null,
+      "semanticscholar": null,
+      "homepage": null,
+      "dblp": null,
+      "openalex": null
+    },
+    "metrics": {
+      "citations": null,
+      "hindex": null
+    },
+    "achievements": [],
+    "confidence": "none",
+    "notes": "No paper co-authored with Tanha found. The prominent \"Mahdi Dolati\" in OpenAlex/Crossref (ORCID 0000-0002-0778-1378, Sharif/IPM, SDN & networking) is a different person and was NOT attributed.",
+    "publications": []
+  }
+]
